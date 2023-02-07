@@ -20,7 +20,7 @@
 ## Conclusions
 - We observe that the applicants whose loan status is Charged Off i.e. Defaulters have slightly higher interest rate in the distribution. We can infer that the lower the interest rate, the easier it is to pay.
 - We observe that annual income of the applicants doesnt have any visible impact on the loan_status. Hence it hasn't been a major decisive factor, from the historical evidences.
-- We observe that loan_amnt of the applications doesnt have any visible difference on the loan_status. Hence it can't be considered as a major decisive factor, from the historical evidences.
+- We observe that loan_amnt of the applications has a minor difference on the loan_status. Hence it can be considered as a low-weightage decisive factor, from the historical evidences.
 - We don't see any significant impact of the loan purpose in deciding the loan_status.
 - We see that home ownership is kind of proportionate in both the loan statuses. Hence, it doesn't make much impact on the ultimate loan status.
 - We see that in case of Fully Paid loan status, Grade A has more frequency. Whereas, In case of Charged-of, Grade A is significantly lesser. Hence, it can be observed that Higher Grades have very less chance of Defaulting or Charging off.
